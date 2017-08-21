@@ -1,2 +1,1 @@
-# collaboration-and-code-review-checklist
-Collaboration and Code Review Checklist
+# Collaboration and Code Review Checklist
